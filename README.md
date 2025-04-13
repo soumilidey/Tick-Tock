@@ -1,3 +1,2 @@
-# Tick Tock 
-An online clock. Do check the time!
+My first program so I don't have the heart to delete it
 
